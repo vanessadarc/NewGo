@@ -66,7 +66,7 @@ Reunião de Planejamento (Planning) – definir a meta, próximos trabalhos e an
 
 Daily Scrum – reunião rápida, geralmente 15 minutos. A equipe compartilha informações sobre o andamento do trabalho. 
 
-- Review – em cada término da sprint a equipe realiza uma reunião de revisão para mostrar o trabalho concluído. É nessa cerimônia que as funcionalidade são aprensentadas.
+- Review – em cada término da sprint a equipe realiza uma reunião de revisão para mostrar o trabalho concluído. É nessa cerimônia que as funcionalidade são apresentadas.
 
 -Sprint Retrospective, com o objetivo de melhoria continua dos processos, essa cerimônia acontece após a Review com o objetivo de analisar e refletir sobre a sprint anterior para identificar o que funcionou bem e o que pode ser melhorado.
 

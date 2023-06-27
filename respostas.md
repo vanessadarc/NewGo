@@ -19,7 +19,8 @@
 **Resposta:** Proxy é útil em vários cenários nos quais é necessário controlar o acesso a um objeto ou adicionar funcionalidades extras a ele. Por exemplo, em uma empresa, é possível realizar o controle de acesso a alguns sites por meio de um Proxy. O administrador do Proxy é responsável por permitir que os usuários tenham acesso à internet, impondo restrições através de autenticação de usuário (login) ou restrições de IP.
 
 **Pergunta: 4**   Você prefere utilizar domínios anêmicos ou ricos? Como avalia os prós e contras de cada?
-**Resposta:** No último projeto que participe do programa de capacitação utilizei domínio rico, pois estávamos desenvolvendo um sistema mais complexo ( software de busca de vagas e candidatos). Mas entendo que  a escolha do domínio vai depender do contexto do projeto. O modelo anêmico é mais simples e mais compreensivo. No entanto, pode levar a falta de encapsulamento e dificuldade de representar a lógica do negócio. Já o domínio rico oferece maior modelagem do mundo real e traz as regras de negócios, mas sua implementação pode ser mais complexa e exigir mais tempo.
+
+**Resposta:** No último projeto que participei do programa de capacitação utilizei domínio rico, pois estávamos desenvolvendo um sistema mais complexo ( software de busca de vagas e candidatos). Mas entendo que  a escolha do domínio vai depender do contexto do projeto. O modelo anêmico é mais simples e mais compreensivo. No entanto, pode levar a falta de encapsulamento e dificuldade de representar a lógica do negócio. Já o domínio rico oferece maior modelagem do mundo real e traz as regras de negócios, mas sua implementação pode ser mais complexa e exigir mais tempo.
  
   **Pergunta: 5**  Dê um exemplo do bom uso do princípio OCP, da sigla SOLID.
 
